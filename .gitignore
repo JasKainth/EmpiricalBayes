@@ -35,5 +35,8 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+# Remove .log files
+**/*.log
+
 # R Environment Variables
 .Renviron
